@@ -1,2 +1,0 @@
-# node-services
-Microservices Node
